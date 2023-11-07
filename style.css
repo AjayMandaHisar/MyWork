@@ -1,0 +1,11 @@
+body{
+    background-image: url('feature.jpg');
+}
+div{
+    text-align: justify;
+    background-color: rgba(25,63,85,.5);
+    padding: 20px;
+}
+div:hover{
+    background: none;
+}
